@@ -26,7 +26,7 @@ I'm a recent graduate in Electrical and Electronics Engineering with a passion f
 
 **Connect with me:**
 
-* LinkedIn: https://www.linkedin.com/in/esmaeil-alkhazmi-439544210/
+* LinkedIn: https://www.linkedin.com/in/esmaeil-hesham
 * Email: ealkhazmi@gmail.com
 
 
