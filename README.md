@@ -1,4 +1,4 @@
-## Hi there  I'm Esmaeil Alkhazmi! 🇱🇾
+## Hi there  I'm Esmaeil Alkhazmi!
 
 I'm a recent graduate in Electrical and Electronics Engineering with a passion for data analysis, python development, and building impactful solutions. My experience lies in using Ai, Streamlit, and various other tools to tackle real-world challenges.
 
