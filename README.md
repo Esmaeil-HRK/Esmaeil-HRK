@@ -1,42 +1,61 @@
-## Hi there  I'm Esmaeil Alkhazmi!
+## Hi there 👋 I'm Esmaeil Alkhazmi!
 
-I'm a recent graduate in Electrical and Electronics Engineering with a passion for data analysis, python development, and building impactful solutions. My experience lies in using Ai, Streamlit, and various other tools to tackle real-world challenges.
+I'm an Electrical and Electronics Engineering graduate with a passion for developing impactful software solutions and leveraging data for actionable insights. My expertise spans AI, IoT, and full-stack development, with a focus on transforming ideas into practical and efficient applications.
 
-**Currently:**
+---
 
-* Looking for exciting opportunities to leverage my skills and contribute to innovative projects.
-* Continuously learning and exploring new technologies like artificial intelligence and machine learning.
+### **Currently:**
 
-**Highlights:**
+- 🌟 AI Engineer & Data Scientist Intern at Tatweer, building tools for data visualization and public sector analytics.
+- 🎓 Private instructor teaching Python, Data Science, and Prompt Engineering to students.
 
-* Developed a comprehensive digital logbook system for oil/gas plants, utilizing MongoDB, Streamlit, and ChatGPT API.
-* Designed and deployed a monitoring system using TIG stack (Telegraph, InfluxDB, and Grafana) to track temperature and humidity in a warehouse.
-* Built a mobile app using Flutter framework, published on Google Play to assist students with multivariable calculus calculations.
-* Extensive experience in telecommunications, networking, and IoT development through internships and projects.
+---
 
-**Skills:**
+### **Highlights:**
 
-* Programming: Python, Flutter
-* Data Analysis: Python libraries (pandas, NumPy)
-* Web Development: Streamlit, Flask
-* Machine Learning: TensorFlow, PyTorch (basic understanding)
-* Hardware: Arduino, ESP32
-* Databases: MongoDB, InfluxDB
-* Design: Adobe Photoshop, Canva
+- 📊 Developed an **interactive dashboard** for Ministry of Planning data, using advanced data cleaning and visualization techniques.
+- 🌐 Created a **digital logbook system** for oil and gas plants, streamlining operational transparency using Streamlit and MongoDB.
+- 📡 Designed a **TIG stack monitoring system** to track environmental metrics, enabling real-time analysis and historical insights.
+- 🤖 Developed an **OCR-based system** for converting handwritten tables to CSV using AWS and Flask.
+- 📱 Published a **multivariable calculus calculator app** on Google Play to support students.
+- 🌍 Delivered workshops on AI and digital transformation, including prompt engineering for engineering projects.
 
-**Connect with me:**
+---
 
-* LinkedIn: https://www.linkedin.com/in/esmaeil-hesham
-* Email: ealkhazmi@gmail.com
+### **Skills:**
 
+- **Programming:** Python, Angular, Flutter, Flask, Laravel
+- **Data Science:** pandas, NumPy, Power BI, TensorFlow, PyTorch
+- **IoT & Embedded Systems:** Arduino, ESP32, LoRaWAN
+- **Databases:** MongoDB, InfluxDB
+- **UI/UX Design:** Streamlit, Canva, Adobe Photoshop
 
-**Open to:**
+---
 
-* Job opportunities (remote preferred)
-* Collaboration on interesting projects
+### **Certifications:**
 
-**Note:** Employer visa sponsorship is needed for me to work abroad. I am willing to provide any necessary documentation.
+- **Dell:** Data Science and Big Data Analytics Foundations
+- **Meta:** Backend Development, Python, and Databases
+- **InfluxDB:** InfluxDB Essentials
+- **Coursera:** Power BI and Advanced AI Techniques
+- **EF SET:** C2 Proficiency in English
 
-**I'm always eager to learn and collaborate, so feel free to reach out!**
+---
 
-**P.S.** Looking for a fun fact? I published a multivariable calculus calculator app to help students with their studies!
+### **Connect with me:**
+
+- 🌐 Portfolio: [esmaeil-hrk.github.io](https://esmaeil-hrk.github.io/)
+- 💼 LinkedIn: [Esmaeil Hesham](https://www.linkedin.com/in/esmaeil-hesham)
+- 📧 Email: ealkhazmi@gmail.com
+
+---
+
+### **Open to:**
+
+- Exciting job opportunities (remote preferred)
+- Collaborations on innovative tech projects
+- Mentorship and knowledge sharing
+
+---
+
+**P.S.** Fun fact: I was a speaker at Libyan National Technology Day, sharing insights on *Smart Benghazi: Harnessing IoT for a Brighter Future*. Let's connect and create something amazing together!
