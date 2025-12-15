@@ -32,7 +32,7 @@ Electrical & Electronics Engineering graduate working on applied AI, automation,
 
 ## ⚙️ Tools
 
-Python · FastAPI/Flask · Streamlit · SQL · MongoDB · Power BI · Docker · AWS · LLMs & RAG · OCR
+Python  · SQL  · Power BI  · LLMs & RAG ·
 
 ---
 
