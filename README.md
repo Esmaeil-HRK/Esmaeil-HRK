@@ -6,7 +6,7 @@ Electrical & Electronics Engineering graduate working on applied AI, automation,
 
 ## 🔧 Currently
 
-* **AI Engineer & Data Scientist Intern @ Tatweer** — building analytics and visualization tools.
+* **AI Engineer & Data Scientist ** — building analytics and visualization tools.
 * **Instructor** — Python, Data Science, Prompt Engineering.
 
 ---
